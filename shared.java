@@ -11,6 +11,14 @@ public class GitExample {
         gitExample.saySomething("Git is cool");
         
     }
+
+    public void plamenFunction() {
+    	
+	System.out.println("Changes by Plamen");
+    	
+    }
+
+
     
 }
 
