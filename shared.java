@@ -16,6 +16,14 @@ public class GitExample {
         printSomething();
         
     }
+
+    public void plamenFunction() {
+    	
+	System.out.println("Changes by Plamen");
+    	
+    }
+
+
     
 }
 
