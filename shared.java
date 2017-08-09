@@ -1,7 +1,7 @@
 public class GitExample {
     
     public void saySomething(String something) {
-       System.out.println(something);
+       System.out.println("printprint");
     }
     
     
@@ -11,6 +11,8 @@ public class GitExample {
         gitExample.saySomething("Git is cool");
         
     }
+
+
     
 }
 
