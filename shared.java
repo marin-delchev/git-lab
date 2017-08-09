@@ -12,7 +12,8 @@ public class GitExample {
         System.out.println("Something!");
     }
     
-    
+    public static void printName(){
+}
     public static void main(String args[]) {
         
         GitExample gitExample = new GitExample();
