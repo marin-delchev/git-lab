@@ -4,7 +4,10 @@ public class GitExample {
        System.out.println(something_hahah);
     }
     
-    
+    public void printMisho(){
+    	System.out.println("Hi, I am Misho.");
+    }
+
     public static void main(String args[]) {
         
         GitExample gitExample = new GitExample();
