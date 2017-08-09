@@ -1,7 +1,7 @@
 public class GitExample {
     
-    public void saySomething(String something) {
-       System.out.println(something);
+    public void saySomething(String something_hahah) {
+       System.out.println(something_hahah);
     }
     
     
