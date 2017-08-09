@@ -22,6 +22,7 @@ public class GitExample {
         
     }
 
+
     public void plamenFunction() {
     	
 	System.out.println("Changes by Plamen");
@@ -29,6 +30,11 @@ public class GitExample {
     }
 
 
+=======
+	public void doSomething(int smth){
+		System.out.println(smth);
+	}
+>>>>>>> Changed the shared file
     
 }
 
