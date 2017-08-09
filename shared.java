@@ -4,7 +4,8 @@ public class GitExample {
        System.out.println(something_hahah);
     }
     
-    
+    public static void printName(){
+}
     public static void main(String args[]) {
         
         GitExample gitExample = new GitExample();
