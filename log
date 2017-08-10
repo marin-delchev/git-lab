@@ -1,0 +1,123 @@
+[33mcommit 86127aa8f4223fa9104e140ae989c6f7575f825c[m[33m ([m[1;36mHEAD -> [m[1;32mKrumBr[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 166c0e9 a710a29
+Author: Krummyboy <iwandragan@gmail.com>
+Date:   Wed Aug 9 21:19:25 2017 +0300
+
+    Merge branch 'Krum'
+
+[33mcommit a710a29e64d5cfd52e257bd9169a98ff99bb21a5[m
+Author: Krummyboy <iwandragan@gmail.com>
+Date:   Wed Aug 9 20:19:47 2017 +0300
+
+    Changed the print message, so it prints 'printprint'
+
+[33mcommit 166c0e9b481b0afe73664ae1d08460b3f365a7f8[m
+Merge: 509be2d 04401bf
+Author: Marina Ilieva <marina.ilieva@fdiba.tu-sofia.bg>
+Date:   Wed Aug 9 21:13:08 2017 +0300
+
+    Merge branch 'master' of github.com:marin-delchev/git-lab
+
+[33mcommit 509be2d94aa45abe9f2646a737f84b5583c094b7[m
+Merge: 9da8245 68b0c83
+Author: Marina Ilieva <marina.ilieva@fdiba.tu-sofia.bg>
+Date:   Wed Aug 9 21:10:54 2017 +0300
+
+    Merge branch 'marina'
+
+[33mcommit 04401bf3c107a1fba4d79adc76c524a5f75d98e4[m
+Merge: 9da8245 f09a594
+Author: N33dL3 <electricaaa@abv.bg>
+Date:   Wed Aug 9 21:07:50 2017 +0300
+
+    Merge branch 'ivan'
+
+[33mcommit f09a5944f882e90497d412ad15580798578d0dd9[m[33m ([m[1;31morigin/ivan[m[33m)[m
+Author: N33dL3 <electricaaa@abv.bg>
+Date:   Wed Aug 9 20:19:02 2017 +0300
+
+    Changed the shared file
+
+[33mcommit 9da824593816cadef1e3d33a0aac8c70a26654c8[m
+Author: Lyudmil Delchev <lddelchev@gmail.com>
+Date:   Wed Aug 9 20:11:35 2017 +0300
+
+    first commit by Lyudmil
+
+[33mcommit df231a057ff205b0957bc6db22e92022a9c19d38[m
+Merge: 4d8335d 5d6dd23
+Author: plamen94 <plamen.nachev94@gmail.com>
+Date:   Wed Aug 9 20:57:26 2017 +0300
+
+    Merge branch 'plamen'
+
+[33mcommit 4d8335d004cb4d82744ceba874eec83ae27ddfcd[m
+Merge: b20c78e b812764
+Author: Pavel <pavel@localhost.localdomain>
+Date:   Wed Aug 9 19:53:51 2017 +0200
+
+    Merge branch 'Pavel'
+
+[33mcommit 68b0c83fd9b88580be0b8fe447da845d1a8e0509[m[33m ([m[1;31morigin/marina[m[33m)[m
+Author: Marina Ilieva <marina.ilieva@fdiba.tu-sofia.bg>
+Date:   Wed Aug 9 20:19:29 2017 +0300
+
+    Add new method
+
+[33mcommit 5d6dd23ee7f2478cc82d40bd858cbf39043b1613[m
+Author: plamen94 <plamen.nachev94@gmail.com>
+Date:   Wed Aug 9 20:16:31 2017 +0300
+
+    Modified shared.java file
+
+[33mcommit b20c78e735a5219b6cf2f626f3e45c9429fae831[m
+Author: marin-delchev <MarinDelchev@protonmail.com>
+Date:   Wed Aug 9 20:35:16 2017 +0300
+
+    Change master
+
+[33mcommit b812764cc659e940ff5732d893dfee6f0ca83603[m[33m ([m[1;31morigin/Pavel[m[33m)[m
+Author: Pavel <pavel@localhost.localdomain>
+Date:   Wed Aug 9 19:31:48 2017 +0200
+
+    Added new method to improve stability.
+
+[33mcommit 60739c9b4e8c251615840a03ede278e0da070b74[m[33m ([m[1;31morigin/production[m[33m)[m
+Author: marin-delchev <MarinDelchev@protonmail.com>
+Date:   Wed Aug 9 18:40:41 2017 +0300
+
+    Add java toy example
+
+[33mcommit c82661db388db8fff0da57ab06d852df85ee6b2a[m[33m ([m[1;31morigin/staging[m[33m)[m
+Author: marin-delchev <MarinDelchev@protonmail.com>
+Date:   Sun Jul 23 20:00:13 2017 +0300
+
+    Revert "Merge branch 'first-feature'"
+    
+    This reverts commit bc4498a5ac34b7bab17d092be734ca2b69875455, reversing
+    changes made to 32b68a021627dcffd9c40924156a6bb8681ab73b.
+
+[33mcommit bc4498a5ac34b7bab17d092be734ca2b69875455[m
+Merge: 32b68a0 0aa0746
+Author: marin-delchev <MarinDelchev@protonmail.com>
+Date:   Sun Jul 23 19:57:00 2017 +0300
+
+    Merge branch 'first-feature'
+
+[33mcommit 0aa0746be17f944f749515262cbae3c8a522e96f[m[33m ([m[1;31morigin/first-feature[m[33m)[m
+Author: marin-delchev <MarinDelchev@protonmail.com>
+Date:   Sun Jul 23 19:44:35 2017 +0300
+
+    Add first feature
+
+[33mcommit 32b68a021627dcffd9c40924156a6bb8681ab73b[m
+Author: marin-delchev <MarinDelchev@protonmail.com>
+Date:   Sun Jul 23 19:37:02 2017 +0300
+
+    Add text to the initial file
+
+[33mcommit 9ab7b2de810102bb4ac455445b9bce850b015587[m
+Author: marin-delchev <MarinDelchev@protonmail.com>
+Date:   Sun Jul 23 19:30:29 2017 +0300
+
+    Create initial empty file to work on
